@@ -1,0 +1,8 @@
+<!--pages/test/test.wxml-->
+<view>
+    下拉可刷新(刷新将重新加载数据)
+</view>
+<text>
+    count的值是:{{count}}
+</text>
+<button bindtap="addCound">+1</button>
